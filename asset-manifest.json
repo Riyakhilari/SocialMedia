@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Riyakhilari/SocialMedia/static/css/main.068bc36f.css",
+    "main.js": "/Riyakhilari/SocialMedia/static/js/main.5664481a.js",
+    "index.html": "/Riyakhilari/SocialMedia/index.html",
+    "main.068bc36f.css.map": "/Riyakhilari/SocialMedia/static/css/main.068bc36f.css.map",
+    "main.5664481a.js.map": "/Riyakhilari/SocialMedia/static/js/main.5664481a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.068bc36f.css",
+    "static/js/main.5664481a.js"
+  ]
+}
